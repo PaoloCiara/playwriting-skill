@@ -12,5 +12,7 @@ Use only files the writer pointed to. A matching title isn't permission: if a pl
 6. **Time and facts.** Put every date, age and length of time in one line and add them up. Check nobody quotes a line that was never said, and nothing is remembered before it happens.
 7. **Character page.** Each description is a sentence or two of traits (Spencer 137, exercise 156). Then find the lines that prove each trait. No line, change the trait. Strong lines with no trait behind them, add it. Update the page whenever the scenes have changed the people.
 8. **Setting and time.** Read them aloud. They should sound like someone describing the play, not a schedule or an equipment list. See `manuscript-format.md`.
-9. **Too neat, again.** Count echoes and returning objects. Cut the cleverest.
-10. **Report.** What was checked, what was wrong, what changed, what's invented, what couldn't be checked or used.
+9. **One conversation.** Per scene, list the topics in order and the line that turns each into the next. A topic nothing led to, or a fact mentioned once and never used, gets cut.
+10. **Spacing.** Blank lines between speeches, where directions sit, the dash for a broken line and how scenes start must be the same in every scene. `build_play.py --describe` prints it scene by scene. If the writer's own draft mixes two ways, use the one they typed most carefully, say which, and offer the other.
+11. **Too neat, again.** Count echoes and returning objects. Cut the cleverest.
+12. **Report.** What was checked, what was wrong, what changed, what's invented, what couldn't be checked or used.

@@ -26,7 +26,7 @@ Two things outrank a check: the writer's own notes and formatting, and Spencer's
 | Language | 150–153 | Main emotion in the scene; mark lines that don't come from it |
 | Behaviour in the words | 153–155 | Could a direction be spoken instead? |
 | Quirks | 155–156 | Stammers and verbal tics aren't character. Are both people fumbling the same way? |
-| Cause | 160–165 | Can scenes swap? Does each line change the next? Blocks and one-word fillers break the chain |
+| Cause | 160–165 | Can scenes swap? Does each line change the next? Blocks and one-word fillers break the chain. Topics nobody led to are episodes in small (164–165) |
 | Suspense | 166–168 | Is the audience missing a fact that would make them wait for something? |
 | Givens | 172–175 | List the choices nobody questioned |
 | Feedback | 175–178 | The five questions |

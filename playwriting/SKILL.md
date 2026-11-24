@@ -100,8 +100,8 @@ A scene with fewer than three tactics is probably one long beat. A card whose "f
 Draft freely first; feeling lines are allowed in a draft because they tell you what the line should do. Then go through every line:
 
 - **Report or attempt?** "I feel like you don't trust me" reports. "Then give me the car keys" attempts. Keep the attempt; the report is usually implied.
-- **Does it answer, or pursue?** People dodge, trade, change the subject. Unanswered questions move faster than answered ones.
-- **Does the next line hear it?** Each line should do something to the one after.
+- **Does it answer, or pursue?** People dodge and trade, but a dodge still shows they heard. Let a question go unanswered when the silence is the answer, not to skip to the next topic.
+- **Does the next line hear it?** Each line should do something to the one after. Point to the word or act in the line above that set this one off. If there isn't one, it's a jump.
 - **Who already knows this?** If both do, it needs a reason to be said.
 - **Would they have this line ready, right now?** Nervous, hurt and cornered people mishear, over-explain logistics, give a boring answer, repeat themselves, start over, say the wrong thing, go quiet. A comeback is only right when having one ready is the point.
 - **Whose word is it?** Cover the names. If you can't tell who's talking, fix the wants before the vocabulary.
@@ -118,11 +118,19 @@ Don't sterilise. A bald line can be the best in the play if a character is drive
 - Give each person a different relation to wit. One may be quick; then the other is literal, slow, sincere. Quickness should fail when they're scared.
 - Don't trade quips for tics. If both people now stumble and apologise the same way, the draft has lost their characters. The quick one stays quick; the wit just stops working.
 - Let a joke die, a question get no answer, a good line be left unsaid: "Because if she comes in here, I'll—" / "Is that the bus?"
-- Let the room interrupt: a phone, a dog, a drawer that won't shut.
+- Let the room interrupt only with something already onstage that changes what they're doing (the phone, the drink). Passing trucks and errands are noise.
 - Vary turn length. Don't swap snappy volleys for flat ones ("Okay." "Yeah." "What?"), and don't sprinkle "um" for texture.
 - Cut echoes that come back too neatly.
 
 **Direct address** is a choice, not a fault. If it's used, decide who the audience *is* to the speaker (jury, congregation, the dead brother), what the speaker wants from them, and set the rule early. If it wasn't intended, remove the conditions that cause it: speeches with no target, facts with no want, chairs facing front.
+
+**Jumping around is a fault.** Invented details don't make talk sound natural; staying on something does. This skill's drafts have filled scenes with them, so check every time (160–165):
+
+- List the topics in order, a word or two each. A short scene holds one spine and three or four topics under it. More than about six is a warning.
+- Between each pair, name the line that turned one into the next. No line, cut the second topic or write the turn.
+- Cut any fact that's mentioned once and never used: a hobby, an errand, a minor name, an object nobody touches.
+- Ask of each person at each line: what are they trying to find out or get right now? If the answer changed, what changed it?
+- Come back to the spine. A scene about the car keys ends on the car keys.
 
 **Choppy is a fault.** Run the rhythm check. When most turns are eight words or fewer, the scene is trading lines instead of talking. Join thoughts with "and", "so", "because"; let an answer run past its question; keep a subject going; save the volley for the moment someone is cornered. `references/from-plays.md` has the method and comparison numbers. Compare with the writer's own draft too: if a revision's turns are much shorter than theirs, the revision caused it.
 

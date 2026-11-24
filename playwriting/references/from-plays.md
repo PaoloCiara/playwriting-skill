@@ -25,6 +25,6 @@ Short lines aren't the fault by themselves. Some plays are written in very short
 ## Setting and directions
 - **Set it once.** One paragraph at the top: when, where, the light, who is there and what they're in the middle of. Then start talking.
 - **Few and physical.** After that: entrances, exits, a thing handed over, one touch. Nothing about how to say a line.
-- **Almost no beats.** Let a change of subject make the pause. Keep "(Beat.)" for a silence that changes something.
+- **Almost no beats.** Let the next line carry the turn. Keep "(Beat.)" for a silence that changes something.
 - **Two or three places, always the same.** Name the place in a word and let light and sound do the rest. Move between scenes with the same actors and the same object.
 - **An object carries the story** because people handle it, pass it and quarrel over it.
